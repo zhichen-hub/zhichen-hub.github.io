@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'Zhichen Guo'
 theme = 'hugo-theme-mini'
 
+[permalinks]
+  posts = "/:title/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   author = 'Zhichen Guo'
   bio = 'Ph.D. Candidate in Psychometrics'
@@ -21,6 +28,6 @@ theme = 'hugo-theme-mini'
   url = "/posts"
   weight = 2
 
-  # 社交媒体链接
+  # Social Media Links
   [params.social]
   orcid = "https://orcid.org/0000-0002-9522-620X"
