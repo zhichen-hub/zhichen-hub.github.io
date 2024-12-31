@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zhichen Guo</title>
-    <link>http://localhost:9482/posts/</link>
+    <link>http://localhost:9100/posts/</link>
     <description>Recent content in Posts on Zhichen Guo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 15:15:57 +0800</lastBuildDate>
-    <atom:link href="http://localhost:9482/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:9100/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:9482/posts/my-first-post/</link>
+      <link>http://localhost:9100/posts/my-first-post/</link>
       <pubDate>Tue, 31 Dec 2024 15:15:57 +0800</pubDate>
-      <guid>http://localhost:9482/posts/my-first-post/</guid>
+      <guid>http://localhost:9100/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome! &lt;a href=&#34;#welcome&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Hello and welcome to my blog! I&amp;rsquo;m Zhichen Guo, a Ph.D. candidate in Psychometrics. This blog will serve as a platform where I share my thoughts, research insights, and experiences in the field of psychometrics and educational measurement.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-to-expect&#34;&gt;What to Expect &lt;a href=&#34;#what-to-expect&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In this blog, I plan to write about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Latest developments in psychometric methods&lt;/li&gt;&#xA;&lt;li&gt;Research updates and findings&lt;/li&gt;&#xA;&lt;li&gt;Thoughts on educational measurement&lt;/li&gt;&#xA;&lt;li&gt;Useful resources and tools in the field&lt;/li&gt;&#xA;&lt;li&gt;Personal experiences in academia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;stay-connected&#34;&gt;Stay Connected &lt;a href=&#34;#stay-connected&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I hope to make this blog a space for meaningful discussions and knowledge sharing. Feel free to reach out if you have any questions or would like to discuss any topics related to psychometrics and educational measurement.&lt;/p&gt;</description>
     </item>
   </channel>

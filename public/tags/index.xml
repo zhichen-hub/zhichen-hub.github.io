@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zhichen Guo</title>
-    <link>http://localhost:9482/tags/</link>
+    <link>http://localhost:9100/tags/</link>
     <description>Recent content in Tags on Zhichen Guo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 15:15:57 +0800</lastBuildDate>
-    <atom:link href="http://localhost:9482/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:9100/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:9482/tags/introduction/</link>
+      <link>http://localhost:9100/tags/introduction/</link>
       <pubDate>Tue, 31 Dec 2024 15:15:57 +0800</pubDate>
-      <guid>http://localhost:9482/tags/introduction/</guid>
+      <guid>http://localhost:9100/tags/introduction/</guid>
       <description></description>
     </item>
   </channel>

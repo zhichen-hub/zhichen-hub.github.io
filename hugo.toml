@@ -1,4 +1,4 @@
-baseURL = 'https://zhichen-site.github.io/'
+baseURL = 'https://zhichen-hub.github.io/'
 languageCode = 'en-us'
 title = 'Zhichen Guo'
 theme = 'hugo-theme-mini'
