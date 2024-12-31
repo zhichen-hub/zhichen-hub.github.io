@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8089/tags/introduction/</loc>
+    <loc>http://localhost:3358/tags/introduction/</loc>
     <lastmod>2024-12-31T15:15:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/my-first-post/</loc>
+    <loc>http://localhost:3358/posts/my-first-post/</loc>
     <lastmod>2024-12-31T15:15:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/posts/</loc>
+    <loc>http://localhost:3358/posts/</loc>
     <lastmod>2024-12-31T15:15:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/tags/</loc>
+    <loc>http://localhost:3358/tags/</loc>
     <lastmod>2024-12-31T15:15:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/</loc>
+    <loc>http://localhost:3358/</loc>
     <lastmod>2024-12-31T15:15:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/about/</loc>
+    <loc>http://localhost:3358/about/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/publications/</loc>
+    <loc>http://localhost:3358/publications/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8089/</loc>
+    <loc>http://localhost:3358/posts/research-journey-reflection/</loc>
   </url><url>
-    <loc>http://localhost:8089/categories/</loc>
+    <loc>http://localhost:3358/categories/</loc>
   </url>
 </urlset>

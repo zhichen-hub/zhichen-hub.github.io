@@ -3,13 +3,6 @@ languageCode = 'en-us'
 title = 'Zhichen Guo'
 theme = 'hugo-theme-mini'
 
-[permalinks]
-  posts = "/:title/"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
 [params]
   author = 'Zhichen Guo'
   bio = 'Ph.D. Candidate in Psychometrics'
