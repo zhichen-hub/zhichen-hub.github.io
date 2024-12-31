@@ -1,10 +1,37 @@
 baseURL = 'https://zhichen-hub.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Zhichen Guo'
 theme = 'hugo-theme-mini'
 
 [params]
-    [params.social]
-        # 如果你需要添加社交媒体链接，可以在这里添加
-        # github = "your-github-link"
-        # twitter = "your-twitter-link"
+  author = 'Zhichen Guo'
+  bio = '''Ph.D. Candidate
+Psychological Measurement
+Psychometrics'''  # 这里的内容会显示在头像下方
+  description = 'Personal website of Zhichen Guo'
+  enableGitalk = false
+  enableRSS = true
+
+  # 导航栏链接
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 2
+
+  [[menu.main]]
+  name = "Publications"
+  url = "/publications"
+  weight = 3
+
+  # 社交媒体链接
+  [params.social]
+  github = "https://github.com/zhichen-hub"
+  orcid = "https://orcid.org/0000-0002-9522-620X"
+  # scholar = "你的Google Scholar链接"
+  # linkedin = "你的LinkedIn链接"
+  # email = "你的邮箱"
