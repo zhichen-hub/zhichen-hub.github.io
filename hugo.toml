@@ -5,33 +5,22 @@ theme = 'hugo-theme-mini'
 
 [params]
   author = 'Zhichen Guo'
-  bio = '''Ph.D. Candidate
-Psychological Measurement
-Psychometrics'''  # 这里的内容会显示在头像下方
+  bio = 'Ph.D. Candidate in Psychometrics'
   description = 'Personal website of Zhichen Guo'
   enableGitalk = false
-  enableRSS = true
+  enableRSS = false
 
-  # 导航栏链接
+  # Navigation
   [[menu.main]]
   name = "Home"
   url = "/"
   weight = 1
 
   [[menu.main]]
-  name = "About"
-  url = "/about"
+  name = "Posts"
+  url = "/posts"
   weight = 2
-
-  [[menu.main]]
-  name = "Publications"
-  url = "/publications"
-  weight = 3
 
   # 社交媒体链接
   [params.social]
-  github = "https://github.com/zhichen-hub"
   orcid = "https://orcid.org/0000-0002-9522-620X"
-  # scholar = "你的Google Scholar链接"
-  # linkedin = "你的LinkedIn链接"
-  # email = "你的邮箱"
