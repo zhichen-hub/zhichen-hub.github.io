@@ -1,0 +1,10 @@
+baseURL = 'https://zhichen-hub.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-mini'
+
+[params]
+    [params.social]
+        # 如果你需要添加社交媒体链接，可以在这里添加
+        # github = "your-github-link"
+        # twitter = "your-twitter-link"
