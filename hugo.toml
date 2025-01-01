@@ -9,7 +9,6 @@ theme = 'hugo-theme-mini'
   description = 'Personal website of Zhichen Guo'
   enableGitalk = false
   enableRSS = false
-  showPowerBy = false
 
   # Navigation
   [[menu.main]]
