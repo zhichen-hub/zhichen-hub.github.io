@@ -1,7 +1,8 @@
-baseURL = 'https://zhichen-hub.github.io/'
+baseURL = 'https://zhichen-guo.com/'
 languageCode = 'en-us'
 title = 'Zhichen Guo'
 theme = 'hugo-theme-mini'
+googleAnalytics = 'G-ZTJ7N8EPRK'
 
 [params]
   author = 'Zhichen Guo'

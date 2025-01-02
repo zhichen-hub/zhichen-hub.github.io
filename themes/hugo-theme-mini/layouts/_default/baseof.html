@@ -4,6 +4,7 @@
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
     {{ partial "head.html" . }}
+    {{ partial "google-analytics.html" . }}
 
   </head>
 
