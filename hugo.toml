@@ -26,9 +26,3 @@ googleAnalytics = 'G-ZTJ7N8EPRK'
   # Social Media Links
   [params.social]
   orcid = "https://orcid.org/0000-0002-9522-620X"
-
-  [params.gitalk]
-  clientId = "Ov23lilPn2G9JI6IMIPd"
-  clientSecret = "342cb51d45d65ce4c9a5e5bbf72529cb6f4bf319"
-  repo = "my-academic-website"
-  owner = "zhichen-hub"
