@@ -5,7 +5,7 @@ date: 2024-12-31
 
 # About Me
 
-I am a Ph.D. candidate specializing in **Psychological Measurement** (or Psychometrics). My research focuses on personality assessment, multimodal data-driven assessment, and advanced psychometric methods.
+I am a PhD specializing in **Psychological Measurement** (or Psychometrics). My research focuses on personality assessment, multimodal data-driven assessment, and advanced psychometric methods.
 
 On this site, you will find information about my ongoing projects, publications, and academic contributions. I am passionate about advancing knowledge in my field, fostering interdisciplinary collaboration, or addressing real-world challenges through research.
 
