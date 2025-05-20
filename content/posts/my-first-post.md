@@ -8,7 +8,7 @@ draft = false
 
 ## Welcome!
 
-Hello and welcome to my blog! I'm Zhichen Guo, a Ph.D. candidate in Psychometrics. This blog will serve as a platform where I share my thoughts, research insights, and experiences in the field of psychometrics and educational measurement.
+Hello and welcome to my blog! I'm Zhichen Guo, a PhD in Psychometrics. This blog will serve as a platform where I share my thoughts, research insights, and experiences in the field of psychometrics and educational measurement.
 
 ## What to Expect
 
