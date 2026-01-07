@@ -5,9 +5,9 @@ date: 2024-12-31
 
 # About Me
 
-I am a Postdoc at The Chinese University of Hong Kong, Shenzhen, specializing in **Psychological Measurement** (or Psychometrics). My research focuses on personality assessment, multimodal data-driven assessment, and advanced psychometric methods.
+I am a PhD specializing in **Psychological Measurement (Psychometrics)** and currently a Postdoctoral Researcher at The Chinese University of Hong Kong, Shenzhen. My research lies at the intersection of artificial intelligence and psychological science, with a focus on AI-driven assessment, multimodal data integration, and advanced psychometric modeling. I am particularly interested in **how large language models and other AI techniques can enhance personality assessment, intelligent testing, and psychological measurement more broadly**.
 
-On this site, you will find information about my ongoing projects, publications, and academic contributions. I am passionate about advancing knowledge in my field, fostering interdisciplinary collaboration, or addressing real-world challenges through research.
+On this site, you will find information about my ongoing projects, publications, and academic contributions. I am committed to developing theory-informed, data-driven AI assessment methods, promoting interdisciplinary collaboration, and translating methodological advances into real-world psychological and educational applications.
 
 ## Publications
 
